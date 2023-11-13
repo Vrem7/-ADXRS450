@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\AskyM\Downloads\PCBMAYIMONA\PCBGYRO\PCBGYRO.kicad_sch</source>
+    <date>13/04/2023 09:48:01</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PCB MAYIMONA GYROSCOPE</title>
+        <company>ENSEA</company>
+        <rev>1.0</rev>
+        <date>2023-04-06</date>
+        <source>PCBGYRO.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96d5c686-a72c-4bf4-b871-6d44d71ebcce</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0fb50f9-0d2c-4d66-90d9-02ea1997519b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b5b78bc-896b-4827-a5e0-4790201e1d17</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b8e0898-cbe6-42b7-a16b-9f0ac6071bd2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W-HE3-08</value>
+      <footprint>DIODE:SOD3715X135N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Vishay</field>
+        <field name="PARTREV">1.7</field>
+        <field name="STANDARD">IPC7351B</field>
+      </fields>
+      <libsource lib="1N4148W-HE3-08" part="1N4148W-HE3-08" description=""/>
+      <property name="STANDARD" value="IPC7351B"/>
+      <property name="MANUFACTURER" value="Vishay"/>
+      <property name="PARTREV" value="1.7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12fc6ad5-3cfb-4c59-93a3-97c51bbc012c</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>954d8ab0-9fab-44a2-b5b8-3a62380cd078</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01d453fd-80b3-4b04-9d6d-2aaad0ca29da</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89fa8f00-d7c2-4657-9ad8-c7af39e68a55</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ba7cb67-6c08-438a-a01f-98fa2cbb6326</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>ADXRS453BRGZ</value>
+      <footprint>KiCad:SOIC127P1042X373-16N</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADXRS453.pdf</datasheet>
+      <fields>
+        <field name="Height">3.73</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADXRS453BRGZ</field>
+        <field name="Mouser Part Number">584-ADXRS453BRGZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADXRS453BRGZ?qs=WIvQP4zGanhxCya%2FzhGurw%3D%3D</field>
+      </fields>
+      <libsource lib="ADXRS453BRG" part="ADXRS453BRGZ" description="ADXRS453BRGZ Analog Devices, Gyroscope, SPI, 16-Pin SOIC"/>
+      <property name="Height" value="3.73"/>
+      <property name="Mouser Part Number" value="584-ADXRS453BRGZ"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADXRS453BRGZ?qs=WIvQP4zGanhxCya%2FzhGurw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADXRS453BRGZ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="ADXRS453BRGZ Analog Devices, Gyroscope, SPI, 16-Pin SOIC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1daecce-cd09-4b57-8863-80f64e73fb25</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06</value>
+      <footprint>Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c49a4a70-80bc-4218-a16a-1032d64bfea5</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>470µH</value>
+      <footprint>L:CAP_GRM43N5C2H102KYXHL</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCBGYRO.kicad_sch"/>
+      <property name="ki_description" value="Inductor, small symbol"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f10e908a-47f4-42cc-8077-0b31f46b1e59</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1N4148W-HE3-08" part="1N4148W-HE3-08">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W-HE3-08</field>
+        <field name="Footprint">SOD3715X135N</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="MANUFACTURER">Vishay</field>
+        <field name="PARTREV">1.7</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADXRS453BRG" part="ADXRS453BRGZ">
+      <description>ADXRS453BRGZ Analog Devices, Gyroscope, SPI, 16-Pin SOIC</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADXRS453.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADXRS453BRGZ</field>
+        <field name="Footprint">SOIC127P1042X373-16N</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADXRS453.pdf</field>
+        <field name="Height">3.73</field>
+        <field name="Mouser Part Number">584-ADXRS453BRGZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADXRS453BRGZ?qs=WIvQP4zGanhxCya%2FzhGurw%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADXRS453BRGZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DVDD" type="passive"/>
+        <pin num="2" name="RSVD_1" type="passive"/>
+        <pin num="3" name="RSVD_2" type="passive"/>
+        <pin num="4" name="~{CS}" type="passive"/>
+        <pin num="5" name="MISO" type="passive"/>
+        <pin num="6" name="PDD" type="passive"/>
+        <pin num="7" name="PSS" type="passive"/>
+        <pin num="8" name="VX" type="passive"/>
+        <pin num="9" name="CP5" type="passive"/>
+        <pin num="10" name="RSVD_3" type="passive"/>
+        <pin num="11" name="AVSS" type="passive"/>
+        <pin num="12" name="RSVD_4" type="passive"/>
+        <pin num="13" name="DVSS" type="passive"/>
+        <pin num="14" name="AVDD" type="passive"/>
+        <pin num="15" name="MOSI" type="passive"/>
+        <pin num="16" name="SCLK" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1N4148W-HE3-08">
+      <uri>C:\Users\AskyM\Downloads\KiCad\DIODE\1N4148W-HE3-08.kicad_sym</uri>
+    </library>
+    <library logical="ADXRS453BRG">
+      <uri>C:\Users\AskyM\Downloads\KiCad\ADXRS453BRG.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="6" pinfunction="PDD" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="CS">
+      <node ref="IC1" pin="4" pinfunction="~{CS}" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="IC1" pin="10" pinfunction="RSVD_3" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="AVSS" pintype="passive"/>
+      <node ref="IC1" pin="12" pinfunction="RSVD_4" pintype="passive"/>
+      <node ref="IC1" pin="13" pinfunction="DVSS" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="RSVD_1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="RSVD_2" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="PSS" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="4" name="MISO">
+      <node ref="IC1" pin="5" pinfunction="MISO" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="MOSI">
+      <node ref="IC1" pin="15" pinfunction="MOSI" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(IC1-AVDD)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="AVDD" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(IC1-CP5)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="C" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="CP5" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(IC1-DVDD)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(IC1-VX)">
+      <node ref="D1" pin="A" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VX" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="SCLK">
+      <node ref="IC1" pin="16" pinfunction="SCLK" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+  </nets>
+</export>

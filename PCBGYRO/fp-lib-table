@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/AskyM/Downloads/KiCad")(options "")(descr ""))
+  (lib (name "DIODE")(type "KiCad")(uri "C:/Users/AskyM/Downloads/KiCad/DIODE")(options "")(descr ""))
+  (lib (name "L")(type "KiCad")(uri "C:/Users/AskyM/Downloads/KiCad/L")(options "")(descr ""))
+)
